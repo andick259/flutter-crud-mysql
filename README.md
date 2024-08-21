@@ -1,6 +1,6 @@
 # Flutter CRUD WITH MYSQL
 
-A new Flutter project.
+this is simple app e-commerce using flutter and mysql, and API to consume data from cloud hosting.
 
 ## Getting Started
 
